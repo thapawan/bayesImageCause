@@ -1,31 +1,12 @@
-# bayesImageCause <img src="man/figures/logo.png" align="right" height="139" alt="bayesImageCause logo" />
+# bayesImageCause <img src="https://github.com/thapawan/bayesImageCause/blob/main/Figure/Image.png" align="right" height="139" alt="bayesImageCause logo" />
 
 <!-- badges: start -->
 
 [![CRAN status](https://img.shields.io/badge/CRAN-not%20submitted-lightgrey.svg)](https://CRAN.R-project.org/package=bayesImageCause)
-[![R-CMD-check](https://github.com/yourusername/bayesImageCause/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/yourusername/bayesImageCause/actions/workflows/R-CMD-check.yaml)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](https://doi.org/10.5281/zenodo.1234567)
 [![Codecov test coverage](https://codecov.io/gh/yourusername/bayesImageCause/branch/main/graph/badge.svg)](https://app.codecov.io/gh/yourusername/bayesImageCause)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
-[![JOSS](https://joss.theoj.org/papers/10.21105/joss.01234/status.svg)](https://doi.org/10.21105/joss.01234)
-
-<!-- badges: end -->
-
-## Overview
-
-**bayesImageCause** is an R package for **Bayesian Causal Inference with Image Data**...
-
-
----
-# bayesImageCause <img src="man/figures/logo.png" align="right" height="139" alt="bayesImageCause logo" />
-
-<!-- badges: start -->
-
-[![CRAN status](https://www.r-pkg.org/badges/version/bayesImageCause)](https://CRAN.R-project.org/package=bayesImageCause)
-[![R-CMD-check](https://github.com/yourusername/bayesImageCause/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/yourusername/bayesImageCause/actions/workflows/R-CMD-check.yaml)
-[![Codecov test coverage](https://codecov.io/gh/yourusername/bayesImageCause/branch/main/graph/badge.svg)](https://app.codecov.io/gh/yourusername/bayesImageCause)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](https://doi.org/10.5281/zenodo.1234567)
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![JOSS](https://joss.theoj.org/papers/10.21105/joss.01234/status.svg)](https://doi.org/10.21105/joss.01234)
 
 <!-- badges: end -->
